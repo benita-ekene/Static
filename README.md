@@ -1,9 +1,9 @@
 ## Build CI/CD Pipelines, Monitoring, and Logging - Project_3
-This repository provides following :
+This repository provides the following :
 
-1. Jenkinsfile is the pipeline code. 
+1. Jenkinsfile; which is the pipeline code. 
 
-2. index.html is the html code to display the static site.
+2. index.html; which is the html code to display the static site.
 
 
 
