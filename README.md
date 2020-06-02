@@ -1,5 +1,5 @@
 ## Build CI/CD Pipelines, Monitoring, and Logging - Project_3
-This repository provides the following :
+**This repository provides the following :**
 
 1. Jenkinsfile; which is the pipeline code. 
 
